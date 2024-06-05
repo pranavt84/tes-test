@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PranavTestApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(PranavTestApplication.class, args);
 	}
 
